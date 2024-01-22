@@ -21,10 +21,6 @@ Welcome to ChatPortFolio, your unique and engaging portfolio website with a What
 
 Replace the placeholder content in the HTML files with your information. Customize the colors, fonts, and styles in the CSS files to match your personal brand.
 
-## Contributors
-
-- [Your Name]
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
